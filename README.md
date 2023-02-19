@@ -13,5 +13,5 @@ make
 ./client
 ```
 
-## Result
+## Output
 ![output gif](/output/output.gif "Output")
